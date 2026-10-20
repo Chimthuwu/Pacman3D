@@ -1,4 +1,4 @@
-# 🟡 PAC-NEON
+# 🟡 Pacman3D
 
 A true-3D synthwave Pac-Man built with React + Vite + TypeScript + Three.js. The whole maze is a real WebGL scene — extruded neon walls, a glowing grid floor, a retrowave sun on the horizon — rendered with UnrealBloom post-processing.
 

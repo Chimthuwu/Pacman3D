@@ -123,7 +123,7 @@ export default function App() {
       <div className="orb orb-c" />
 
       <header className="title-wrap">
-        <h1 className="title">PAC-NEON</h1>
+        <h1 className="title">Pacman3D</h1>
         <p className="subtitle">chase the light · ride the grid · outrun the phantoms</p>
       </header>
 
@@ -189,7 +189,7 @@ export default function App() {
           {ui.state === 'idle' && (
             <div className="overlay">
               <div className="panel">
-                <p className="panel-title">PAC-NEON</p>
+                <p className="panel-title">Pacman3D</p>
                 <p className="panel-sub">A synthwave vision-quest through neon corridors — harvest the <span className="uwu">data orbs</span>, and pray the <span className="owo">phantoms</span> stay hungry</p>
                 <button type="button" className="btn-primary" onClick={() => g()?.start()}>
                   ▶ START GAME

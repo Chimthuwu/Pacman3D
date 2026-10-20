@@ -30,7 +30,7 @@ function createWindow() {
     minHeight: 780,
     backgroundColor: '#0a0118',
     autoHideMenuBar: true,
-    title: 'PAC-NEON',
+    title: 'Pacman3D',
     webPreferences: {
       preload: path.join(__dirname, 'preload.cjs'),
       contextIsolation: true,

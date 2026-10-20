@@ -1,8 +1,8 @@
 {
-  "name": "pac-uwu",
+  "name": "pacman3d",
   "private": true,
   "version": "1.0.0",
-  "description": "PAC-NEON — a true-3D synthwave Pac-Man. Chase the light through a neon grid.",
+  "description": "Pacman3D — a true-3D synthwave Pac-Man. Chase the light through a neon grid.",
   "author": {
     "name": "Freebuff",
     "email": "hello@freebuff.com"
@@ -38,7 +38,7 @@
   },
   "build": {
     "appId": "com.pacuuwu.game",
-    "productName": "PAC-UwU",
+    "productName": "Pacman3D",
     "copyright": "Copyright © 2026 Freebuff",
     "files": [
       "dist/**/*",

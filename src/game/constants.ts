@@ -1,4 +1,4 @@
-// Grid constants for the PAC-NEON maze (classic Pac-Man layout, 28 x 31 tiles).
+// Grid constants for the Pacman3D maze (classic Pac-Man layout, 28 x 31 tiles).
 // '#' = wall, '.' = pellet, 'o' = power pellet, '-' = ghost-house door, ' ' = open.
 
 export const COLS = 28;
